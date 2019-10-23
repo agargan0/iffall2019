@@ -1,0 +1,67 @@
+
+
+
+
+html {
+	font-size: 1rem;
+}
+
+
+div {
+	font-size: 1.5rem;
+	font-weight: bolder;
+	line-height: 2rem;
+}
+
+.last {
+	margin-bottom: 3rem;
+}
+
+#deadlast {
+	margin-bottom: 8rem;
+}
+
+
+h1 {
+	font-family: Sans-Serif;
+	font-weight: bold;
+	font-size: 11.5rem;
+	color: white;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 15px;
+}
+
+
+#c {
+	color: #ff0000;
+	font-size:2rem;
+	margin-bottom: 6rem;
+	letter-spacing: 3px;
+}
+
+
+body {   
+    background-color: #0a0a0f;
+}
+
+.pic {
+	margin-bottom: 4rem;
+}
+
+.first {
+	font-family: 'Ubuntu', sans-serif;
+	letter-spacing: 2.5px;
+	color: white;
+}
+
+
+.second	{
+	font-family: 'Inconsolata', monospace;
+	color: #9a9a9a;
+	margin-top: 8rem;
+}
+
+
+
+
+
