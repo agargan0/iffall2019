@@ -1,0 +1,177 @@
+
+body {
+
+	font-family: 'Archivo Narrow', sans-serif;
+	color: white;
+}
+
+.huh1 {
+
+height: 35.75rem;
+margin-top: -9rem;
+width:;
+background-image: url("RainforestCafe.jpg");
+
+}
+
+h1 {
+
+	padding-top: 15.2rem;
+	letter-spacing: 2.5px;
+	font-size: 77px;
+	font-weight: bold;
+}
+
+h2 {
+
+	margin-top: -2.95rem;
+	letter-spacing: 1.45px;
+	font-size: 21pt;
+	font-weight: bold;
+}
+
+h3 {
+
+	padding-top: 2.5rem;
+	font-size: 27pt;
+	letter-spacing: 2px;
+	font-weight: bold;
+
+}
+
+
+.huh2 {
+
+background-color: maroon;
+margin-top: -2.2rem;
+height: 44.5rem;
+
+}
+
+
+.MainP {
+
+	height: 550px;
+	width: 966.6px;
+
+
+}
+
+#piccy {
+
+height: 300px;
+width: 400px;
+background-image: url("RainforestCafe.jpg");
+margin-left: 1rem;
+float: right;
+
+}
+
+p {
+
+	line-height: 26px;
+	text-indent: -.7rem;
+	margin-bottom: 1.8rem;
+
+}
+
+
+.huh3 {
+
+background-color: green;
+margin-top: -2.25rem;
+height: 43rem;
+
+}
+
+.tainer {
+
+    width: 150px;
+    float: left;
+    height: 505px;
+
+}
+
+.taino {
+
+    width: 150px;
+    float: right;
+    height: 505px;
+}
+
+.tainah {
+
+	width: 333.3px;
+    float: right;
+    height: 505px;
+
+}
+
+
+.teenytainy {
+
+	width: 333.3px;
+    float: right;
+    height: 505px;
+
+}
+
+.pikcha {
+
+float: left;
+width: 200px;
+height: 150px;
+background-image: url("RainforestCafe.jpg");
+margin-bottom: 1.5rem;
+
+}
+
+.teenytainy p {
+
+	margin-right: 2rem;
+	margin-left: 4.4rem;
+	text-align: left;
+	text-indent: 6px;
+
+}
+
+.tainah p {
+
+	margin-right: 2rem;
+	margin-left: 4.4rem;
+	text-align: left;
+	text-indent: 6px;
+
+}
+
+h4 {
+
+	margin-left: 4.4rem;
+	margin-top: 9px;
+	margin-bottom: .2rem;
+	text-align: left;
+	size: 14pt;
+	font-weight:bold;
+}
+
+.huh4 {
+
+background-color: black;
+margin-top: -2.25rem;
+height: 25rem;
+
+
+}
+
+.lastly {
+
+	size: 30px;
+	margin-left: 500px;
+	margin-right: 500px;
+
+}
+
+
+
+
+
